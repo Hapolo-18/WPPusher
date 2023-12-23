@@ -10,7 +10,6 @@ body {
 .container {
   display: flex;
   justify-content: space-around;
-  /* position: fixed; */
   width: 100%;
   height: 1170px;
   background-color: #f5f8fa;
@@ -24,7 +23,6 @@ body {
   margin-top: 28px;
   position: absolute;
   border-bottom: #e0e6ea solid;
-  /* border: red solid 1px; */
   font-size: 14px;
   overflow: hidden;
 }
@@ -97,7 +95,6 @@ button {
   height: 27.8%;
   border-bottom: solid #f5f7fa;
 
-  /* border: green 1px solid; */
   input {
     height: 36px;
     max-width: 120%;
@@ -115,12 +112,8 @@ button {
 }
 .infotitle {
   margin: 0 50px;
-  /* display: flex; */
-  /* flex-direction: row; */
 }
-.numbering {
-  /* width: ; */
-}
+
 .info {
   font-size: 18px;
   font-weight: 700;
@@ -131,10 +124,8 @@ button {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  /* width: 100%; */
   margin: 0px 50px;
 
-  /* border: green 1px solid; */
 
 }
 
@@ -142,7 +133,6 @@ button {
   display: flex;
   margin: 0px 50px;
   width: 100%;
-  /* border: green 1px solid; */
 
 
   input {
@@ -157,7 +147,6 @@ button {
   height: 19.37%;
   border-bottom: solid #f5f7fa;
 
-  /* border: red 1px solid; */
   .numbering {
     margin: 50px;
   }
