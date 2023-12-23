@@ -251,8 +251,6 @@ color: #646e7a;
   height: 152px;
   top: 42px;
 
-  /* top: 228px; */
-  /* margin: 32px; */
 
   h4 {
     position: relative;
@@ -296,9 +294,7 @@ color: #646e7a;
   position: relative;
   top: 95px;
   line-height: 19.6px;
-  /* width: 184px; */
   height: 51px;
-  /* border-bottom: #b9f5ff solid 4px; */
   font-size: 16px;
   div {
     height: 4px;
